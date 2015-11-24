@@ -1,0 +1,1 @@
+implementierung eines Pushdienstes mit PhoneGap + Serverkomponente
